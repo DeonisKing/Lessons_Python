@@ -1,0 +1,9 @@
+a = 1
+b = 1000
+c = 1
+d = 0
+while a <= b:
+    print(a, "=", str(d) + "!")
+    a *= c
+    c += 1
+    d += 1
